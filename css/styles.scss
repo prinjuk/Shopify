@@ -342,6 +342,8 @@ section{position: relative;}
         padding: 5px 5px;
         
        ul{
+        display: flex;
+        font-size: 0.9rem;
         border: 0.5px solid #e5e5e5;
         padding: 7px 5px;
         li{
